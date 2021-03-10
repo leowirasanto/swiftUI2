@@ -15,6 +15,7 @@
 		E5F50A2325F8886F00E7FC75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5F50A2125F8886F00E7FC75 /* LaunchScreen.storyboard */; };
 		E5F50A2E25F8886F00E7FC75 /* SwiftUI2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F50A2D25F8886F00E7FC75 /* SwiftUI2Tests.swift */; };
 		E5F50A3925F8886F00E7FC75 /* SwiftUI2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F50A3825F8886F00E7FC75 /* SwiftUI2UITests.swift */; };
+		E5F50A4A25F88C9100E7FC75 /* TodoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F50A4925F88C9100E7FC75 /* TodoItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E5F50A3425F8886F00E7FC75 /* SwiftUI2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUI2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5F50A3825F8886F00E7FC75 /* SwiftUI2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI2UITests.swift; sourceTree = "<group>"; };
 		E5F50A3A25F8886F00E7FC75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E5F50A4925F88C9100E7FC75 /* TodoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				E5F50A1625F8886D00E7FC75 /* AppDelegate.swift */,
 				E5F50A1825F8886D00E7FC75 /* SceneDelegate.swift */,
 				E5F50A1A25F8886D00E7FC75 /* ContentView.swift */,
+				E5F50A4925F88C9100E7FC75 /* TodoItem.swift */,
 				E5F50A1C25F8886F00E7FC75 /* Assets.xcassets */,
 				E5F50A2125F8886F00E7FC75 /* LaunchScreen.storyboard */,
 				E5F50A2425F8886F00E7FC75 /* Info.plist */,
@@ -268,6 +271,7 @@
 			files = (
 				E5F50A1725F8886D00E7FC75 /* AppDelegate.swift in Sources */,
 				E5F50A1925F8886D00E7FC75 /* SceneDelegate.swift in Sources */,
+				E5F50A4A25F88C9100E7FC75 /* TodoItem.swift in Sources */,
 				E5F50A1B25F8886D00E7FC75 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
